@@ -1,0 +1,69 @@
+,
+    {
+      "precio": 45.00,
+      "id": 2,
+      "title": "Chicharrones",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/chi.jpg"
+    },
+    {
+      "precio": 30.00,
+      "id": 3,
+      "title": "Coca-cola",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/coc.jpg"
+    },
+    {
+      "precio": 45.00,
+      "id": 4,
+      "title": "Helado",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/hel.jpg"
+    },
+    {
+      "precio": 35.00,
+      "id": 5,
+      "title": "Palomitas",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pal.jpg"
+    },
+    {
+      "precio": 25.00,
+      "id": 6,
+      "title": "Panditas",
+      "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pan.jpg"
+    },
+    {
+        "precio": 40.00,
+        "id": 7,
+        "title": "Pasitas",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pas.jpg"
+      },
+      {
+        "precio": 15.00,
+        "id": 8,
+        "title": "Pelon pelo rico",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pel.jpg"
+      },
+      {
+        "precio": 25.00,
+        "id": 9,
+        "title": "Pepitas",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pep.jpg"
+      }, 
+      {
+        "precio": 60.00,
+        "id": 10,
+        "title": "Pistaches",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pis.jpg"
+      },
+      {
+        "precio": 35.00,
+        "id": 11,
+        "title": "Sidral mundet",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/sid.jpg"
+      },
+      {
+        "precio": 25.00,
+        "id": 12,
+        "title": "Panditas",
+        "thumbnailUrl": "https://miscclasesfpd.000webhostapp.com/cast/pis.jpg"
+      }
+      
+  ]
